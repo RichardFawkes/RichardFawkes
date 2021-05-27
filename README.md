@@ -18,8 +18,7 @@ BLOG -> http://blog.richarddevs.com.br
 💛 Curiosidades
 Eu amo Jogos Retro e FPS.
 Eu amo HipHop / Eletronic.
-Eu amo Magic The Gathering.
-
+Eu amo e claro Tecnologia 
 
 ⭐Ver o meu site pessoal para articles, videos, talkse muito mais.
 reachstudio.com.br
