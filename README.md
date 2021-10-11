@@ -6,7 +6,8 @@ Hello World 💜
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardFawkes&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardFawkes&show_icons=true&show_icons=true&theme=dracula)
 
 
 ✏Tenho alguns artigos escritos no meu blog
