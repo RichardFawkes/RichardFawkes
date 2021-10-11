@@ -5,10 +5,9 @@ Hello World 💜
 
 
 
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dracula)
 
-</div>
 
 ✏Tenho alguns artigos escritos no meu blog
 SITE -> http://richarddevs.com.br/home
