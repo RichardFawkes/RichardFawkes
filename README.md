@@ -27,10 +27,10 @@ BLOG -> http://blog.richarddevs.com.br
 
 
 
-💛 Curiosidades
+💛 Curiosidades!
 Eu amo Jogos Retro e FPS.
 Eu amo HipHop / Eletronic.
 Eu amo e claro Tecnologia 
 
-⭐Ver o meu site pessoal para articles, videos, talkse muito mais.
+⭐ Ver o meu site pessoal para articles, videos, talkse muito mais.
 reachstudio.com.br
