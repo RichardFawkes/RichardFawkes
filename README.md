@@ -19,7 +19,7 @@ Hello World 💜
 
 
 ✏Tenho alguns artigos escritos no meu blog
-SITE -> http://richarddevs.com.br/home
+SITE -> http://richarddev.com
 BLOG -> http://blog.richarddevs.com.br
 
 
