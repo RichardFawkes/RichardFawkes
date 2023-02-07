@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [richarddev.com.br](richarddev.com.br)
+- 👨‍💻 All of my projects are available at [richarddev.com](richarddev.com)
 
 - 📝 I regularly write articles on [richarddev.com.br](richarddev.com.br)
 
