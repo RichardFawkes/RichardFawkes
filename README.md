@@ -2,6 +2,10 @@
 <h3 align="center">Desenvolvedor Front-end especializado em ReactJS e React Native</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Front-end;Especialista+em+React+e+React+Native;Sempre+aprendendo+novas+tecnologias...&center=true&width=500&height=50&color=0A66C2&vCenter=true&pause=1000&size=20" alt="Typing SVG">
+</p>
+
+<p align="center">
   <a href="https://richarddev.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
   </a>
@@ -27,13 +31,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" /></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,html,css&perline=7" alt="My Skills"/>
 </p>
 
 ---
@@ -45,5 +43,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+</p>
 
 <p align="center">Feito com ❤️ por Richard</p>
