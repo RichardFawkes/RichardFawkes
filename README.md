@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://richarddev.com" target="_blank">
+  <a href="https://dakeit.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
   </a>
   <a href="mailto:richarddevelopers@gmail.com">
@@ -21,8 +21,8 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [richarddev.com](https://richarddev.com)  
-- ✍️ Escrevo artigos regularmente em [richarddev.com.br](https://richarddev.com.br)  
+- 👨‍💻 Todos os meus projetos estão disponíveis em [dakeitd.com](https://dakeit.com.br)  
+- ✍️ Escrevo artigos regularmente em [dakeit.com.br](https://dakeit.com.br)  
 - 📫 Me contate em **richarddevelopers@gmail.com**  
 - 📄 Conheça mais sobre minhas experiências com [Node.js](https://nodejs.org)
 
