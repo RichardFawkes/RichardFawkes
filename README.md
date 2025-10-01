@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [dakeitd.com](https://dakeit.com.br)  
+- 👨‍💻 Todos os meus projetos estão disponíveis em [dakeit.com](https://dakeit.com.br)  
 - ✍️ Escrevo artigos regularmente em [dakeit.com.br](https://dakeit.com.br)  
 - 📫 Me contate em **richarddevelopers@gmail.com**  
 - 📄 Conheça mais sobre minhas experiências com [Node.js](https://nodejs.org)
